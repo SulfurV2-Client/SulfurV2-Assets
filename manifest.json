@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§l§dSulfurV2 §bClient §a",
+        "description": "§l§cMade by §bAs4r1§c, §bikakusa_§c, §bH4cK3dR4Du §c& §bKaeru",
+        "uuid": "3d694d81-9750-49ad-844b-11579bc7cb34",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "be64709e-d507-4c44-855e-1f111b58e49a",
+            "version": [1, 0, 0]
+        }
+    ]
+}
